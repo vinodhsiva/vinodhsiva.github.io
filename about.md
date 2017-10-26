@@ -5,17 +5,17 @@ published: true
 ---
 
 <p class="message">
-  Hey there! This is Siva, an IT professional practicing devops for the past few years.
+  Hey there! This is Siva, an IT professional practicing devops for the past few years. This is my personal blog to log the issues and solutions facing in the DevOps & AWS World. 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In the blog, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+Tools:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [ansible](http://ansible.com)
+* [splunk](http://splunk.com)
+* [docker](http://docker.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
 ## Setup
 
