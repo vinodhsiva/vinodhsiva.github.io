@@ -8,7 +8,7 @@ published: true
   Hey there! This is Siva, an IT professional practicing devops for the past few years. This is my personal blog to log the issues and solutions facing in the DevOps & AWS World. 
 </p>
 
-In the blog, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In the blog, *everyday issues, solutions and some how to tutorials*, will be amended by me. 
 
 Tools:
 
