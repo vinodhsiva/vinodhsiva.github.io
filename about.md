@@ -8,9 +8,9 @@ published: true
   Hey there! This is Siva, an IT professional practicing devops for the past few years. This is my personal blog to log the issues and solutions facing in the DevOps & AWS World. 
 </p>
 
-In the blog, *everyday issues, solutions and some how to tutorials*, will be amended by me. 
+In the blog, *everyday issues, solutions and some how to tutorials*, will be amended.  
 
-Tools:
+DevOps Tools:
 
 * [ansible](http://ansible.com)
 * [splunk](http://splunk.com)
